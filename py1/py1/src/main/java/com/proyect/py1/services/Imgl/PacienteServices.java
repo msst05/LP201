@@ -18,7 +18,7 @@ public class PacienteServices implements IPacienteServices {
 
     @Autowired
     public PacienteServices(IPacienteRepository pacienteRepository) {
-        this._pacienteRepository = pacienteRepository;
+        _pacienteRepository = pacienteRepository;
     }
 
     @Override
@@ -29,6 +29,10 @@ public class PacienteServices implements IPacienteServices {
     @Override
     public List<Paciente> buascarPaciente(String nombre) {
         return  _pacienteRepository.findByNombre(nombre);
+
+
+
+
 
     }
 
@@ -67,5 +71,22 @@ public class PacienteServices implements IPacienteServices {
             throw new RuntimeException("Paciente no encontrado");
         }
     }
+
+
+    @Override
+    public Paciente DeletePacientetById(int id) {
+        Optional<Paciente> rowInDB = _pacienteRepository.findById(id);
+        if (rowInDB.isPresent()) {
+            Paciente estudianteToDelete = rowInDB.get();
+            _pacienteRepository.delete(estudianteToDelete);
+            return estudianteToDelete;
+        } else {
+            // Manejo del caso en que el estudiante no exista
+            return new Paciente();
+        }
+    }
+
+
+
 
 }

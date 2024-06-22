@@ -17,7 +17,7 @@ public class Consulta {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int idConsulta;
-    private String fechaConsulta;
+    private String fechaCon sulta;
     private String motivoConsulta;
     private String diagnostico;
     private String tratamiento;

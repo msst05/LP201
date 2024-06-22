@@ -10,4 +10,7 @@ public interface IPacienteServices {
     List<Paciente> buascarPaciente(String nombre);
     Paciente guardarPaciente(PacienteDTO paciente);
     Paciente actualizarPaciente(int codigo, PacienteDTO paciente);
+    Paciente DeletePacientetById(int id);
+
+
 }

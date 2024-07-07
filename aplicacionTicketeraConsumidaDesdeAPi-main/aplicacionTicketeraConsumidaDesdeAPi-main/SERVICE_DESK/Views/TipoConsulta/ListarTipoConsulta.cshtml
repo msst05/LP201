@@ -1,0 +1,72 @@
+﻿@model IEnumerable<tipoConsulta>
+@{
+    ViewData["Title"] = "ListarTipoConsulta";
+    Layout = "~/Views/Shared/_Plantillaticketera.cshtml";
+}
+
+<h1>ListarTipoConsulta</h1>
+
+
+<div class="col-md-12 col-lg-9 col-xl-9">
+    <div class="main-container container-fluid">
+        <div class="row row-sm">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between">
+                        <h4 class="fw-bolder">Listado Tipo de Consulta</h4>
+                    </div>
+                    <div class="text-center">
+                        <a asp-action="CrearTipoConsulta" class="btn btn-success">Nuevo Tipo de Consulta</a>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+
+                            <table class="table table-xs table-hover" id="dataTableTickets">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Descripción</th>
+                                        <th>Acciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @if (ViewBag.TipoConsulta != null)
+                                    {
+                                        @foreach (var tipoConsulta in ViewBag.TipoConsulta)
+                                        {
+                                            <tr>
+                                                <td class="td-ellipsis td-sistema" title="@tipoConsulta.idTipoConsulta">
+                                                    <h6 class="fw-bold"><i class="zmdi zmdi-ticket-star"></i> @tipoConsulta.idTipoConsulta</h6>
+                                                </td>
+                                                <td>@tipoConsulta.descripcion</td>
+                                                <td class="text-center td-sistema">
+                                                    @{
+                                                        string editarTipoConsultaUrl = $"/TipoConsulta/BuscarTipoConsulta?id={tipoConsulta.idTipoConsulta}";
+                                                    }
+                                                    <a href="@editarTipoConsultaUrl" type="button" class="boton boton-black" style="max-height:35px!important;">
+                                                        Editar
+                                                    </a>
+                                                </td>
+                                                <td class="text-center td-sistema">
+                                                    <form asp-action="EliminarTipoConsulta" asp-route-id="@tipoConsulta.idTipoConsulta" method="post" onsubmit="return confirm('¿Estás seguro de que deseas eliminar este tipo de consulta?');">
+                                                        <button type="submit" class="btn btn-danger">Eliminar</button>
+                                                    </form>
+                                                </td>
+                                            </tr>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <td colspan="3">No hay tipos de consulta disponibles.</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

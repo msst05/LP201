@@ -22,6 +22,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Ticketera">
 
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js"></script>
+
     <!-- FAVICON -->
     @*<link rel="shortcut icon" type="image/x-icon" href="../assets/images/brand/favicon.ico" />*@
 
@@ -263,6 +267,24 @@
                             </a>
                         }
                     </a>
+
+                    <a class="header-brand1 d-flex flex-direction-column gap-2 btn btn-success" href="@(Url.Action("ListarEquipos", "Equipo"))">
+                        MantenimientoAparato
+                   </a>
+
+
+                    <a class="header-brand1 d-flex flex-direction-column gap-2 btn btn-warning" href="@(Url.Action("ListarTipoConsulta", "TipoConsulta"))">
+                        MantenimientoTipoConsulta
+                    </a>
+
+
+
+                    <a class="header-brand1 d-flex flex-direction-column gap-2 btn btn-info" href="@(Url.Action("ListarUsuarios", "Usuario"))">
+                        MantenimientoUsuario
+                    </a>
+
+
+
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>

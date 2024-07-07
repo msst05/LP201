@@ -1,0 +1,22 @@
+﻿@model tipoConsulta
+@{
+    ViewData["Title"] = "CrearTipoConsulta";
+    Layout = "~/Views/Shared/_Plantillaticketera.cshtml";
+}
+
+<h1>CrearTipoConsulta</h1>
+
+<form asp-action="CrearEquipo" method="post">
+
+    <div class="form-group">
+        <label asp-for="descripcion" class="control-label"></label>
+        <input asp-for="descripcion" class="form-control" />
+        <span asp-validation-for="descripcion" class="text-danger"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Crear Tipo de Consulta</button>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

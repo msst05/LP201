@@ -1,0 +1,557 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\usuario\\listarusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\usuario\\listarusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\shared\\_plantillaticketera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\shared\\_plantillaticketera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\ticketapi\\mistickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\ticketapi\\mistickets.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\equipo\\listarequipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\equipo\\listarequipos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\equipo\\crearequipo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\equipo\\crearequipo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\equipo\\actualizarequipo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\equipo\\actualizarequipo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\controllers\\tipoconsultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:controllers\\tipoconsultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\tipoconsulta\\actualizartipoconsulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\tipoconsulta\\actualizartipoconsulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\usuario\\actualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\usuario\\actualizarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\tipoconsulta\\listartipoconsulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\tipoconsulta\\listartipoconsulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\tipoconsulta\\creartipoconsulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\tipoconsulta\\creartipoconsulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\models\\tipoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:models\\tipoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\usuario\\crearusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\usuario\\crearusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\ticketapi\\listadogeneral.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\ticketapi\\listadogeneral.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\controllers\\ticketapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:controllers\\ticketapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\ticketapi\\abrirticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\ticketapi\\abrirticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\views\\ticketapi\\misticketsasignados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:views\\ticketapi\\misticketsasignados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|c:\\pooii\\lpii\\aplicacionticketeraconsumidadesdeapi-main\\aplicacionticketeraconsumidadesdeapi-main\\service_desk\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E2FFDC-ED6F-473B-BE3E-B8F77EA53FCE}|SERVICE_DESK.csproj|solutionrelative:controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarEquipos.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Equipo\\ListarEquipos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\ListarEquipos.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Equipo\\ListarEquipos.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\ListarEquipos.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:09:23.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MisTickets.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\MisTickets.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketAPI\\MisTickets.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\MisTickets.cshtml",
+              "RelativeToolTip": "Views\\TicketAPI\\MisTickets.cshtml",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAIwEIBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:13:36.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Plantillaticketera.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Shared\\_Plantillaticketera.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Plantillaticketera.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Shared\\_Plantillaticketera.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Plantillaticketera.cshtml",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAAABoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:13:36.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoConsultaController.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\TipoConsultaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoConsultaController.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\TipoConsultaController.cs",
+              "RelativeToolTip": "Controllers\\TipoConsultaController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAiwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T22:56:36.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarUsuarios.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Usuario\\ListarUsuarios.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\ListarUsuarios.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Usuario\\ListarUsuarios.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\ListarUsuarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T20:59:09.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:13:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "Controllers\\EquipoController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwGgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:15:46.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearEquipo.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Equipo\\CrearEquipo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\CrearEquipo.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Equipo\\CrearEquipo.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\CrearEquipo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T19:09:33.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActualizarEquipo.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Equipo\\ActualizarEquipo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\ActualizarEquipo.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Equipo\\ActualizarEquipo.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\ActualizarEquipo.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T18:34:49.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActualizarTipoConsulta.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TipoConsulta\\ActualizarTipoConsulta.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConsulta\\ActualizarTipoConsulta.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TipoConsulta\\ActualizarTipoConsulta.cshtml",
+              "RelativeToolTip": "Views\\TipoConsulta\\ActualizarTipoConsulta.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T20:15:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarUsuario.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Usuario\\ActualizarUsuario.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\ActualizarUsuario.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Usuario\\ActualizarUsuario.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\ActualizarUsuario.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T21:26:25.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarTipoConsulta.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TipoConsulta\\ListarTipoConsulta.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConsulta\\ListarTipoConsulta.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TipoConsulta\\ListarTipoConsulta.cshtml",
+              "RelativeToolTip": "Views\\TipoConsulta\\ListarTipoConsulta.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T19:46:00.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrearTipoConsulta.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TipoConsulta\\CrearTipoConsulta.cshtml",
+              "RelativeDocumentMoniker": "Views\\TipoConsulta\\CrearTipoConsulta.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TipoConsulta\\CrearTipoConsulta.cshtml",
+              "RelativeToolTip": "Views\\TipoConsulta\\CrearTipoConsulta.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T20:18:31.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "equipo.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\equipo.cs",
+              "RelativeDocumentMoniker": "Models\\equipo.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\equipo.cs",
+              "RelativeToolTip": "Models\\equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:11:13.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "tipoConsulta.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\tipoConsulta.cs",
+              "RelativeDocumentMoniker": "Models\\tipoConsulta.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\tipoConsulta.cs",
+              "RelativeToolTip": "Models\\tipoConsulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:14:17.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearUsuario.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Usuario\\CrearUsuario.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\CrearUsuario.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Usuario\\CrearUsuario.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\CrearUsuario.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T21:52:27.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvw8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:09:48.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListadoGeneral.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\ListadoGeneral.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketAPI\\ListadoGeneral.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\ListadoGeneral.cshtml",
+              "RelativeToolTip": "Views\\TicketAPI\\ListadoGeneral.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAACIBAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T18:19:39.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:13:36.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TicketAPIController.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\TicketAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketAPIController.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\TicketAPIController.cs",
+              "RelativeToolTip": "Controllers\\TicketAPIController.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAcwPoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:13:36.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AbrirTicket.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\AbrirTicket.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketAPI\\AbrirTicket.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\AbrirTicket.cshtml",
+              "RelativeToolTip": "Views\\TicketAPI\\AbrirTicket.cshtml",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:13:36.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T12:30:11.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T12:30:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T12:30:14.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T12:31:16.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T13:41:10.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwFcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T13:41:32.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ErrorController.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:15:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\Estado.cs",
+              "RelativeDocumentMoniker": "Models\\Estado.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Models\\Estado.cs",
+              "RelativeToolTip": "Models\\Estado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:11:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T02:16:05.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MisTicketsAsignados.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\MisTicketsAsignados.cshtml",
+              "RelativeDocumentMoniker": "Views\\TicketAPI\\MisTicketsAsignados.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\TicketAPI\\MisTicketsAsignados.cshtml",
+              "RelativeToolTip": "Views\\TicketAPI\\MisTicketsAsignados.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIBAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:13:36.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:13:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\POOII\\lpII\\aplicacionTicketeraConsumidaDesdeAPi-main\\aplicacionTicketeraConsumidaDesdeAPi-main\\SERVICE_DESK\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T02:13:36.652Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

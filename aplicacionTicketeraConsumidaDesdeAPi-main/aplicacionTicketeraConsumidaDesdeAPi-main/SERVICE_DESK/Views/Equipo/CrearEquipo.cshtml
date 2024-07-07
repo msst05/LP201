@@ -1,0 +1,22 @@
+﻿@model equipo
+@{
+    ViewData["Title"] = "CrearEquipo";
+    Layout = "~/Views/Shared/_Plantillaticketera.cshtml";
+}
+
+<h1>Crear Equipo</h1>
+
+<form asp-action="CrearEquipo" method="post">
+    
+    <div class="form-group">
+        <label asp-for="descripcion" class="control-label">Nombre</label>
+        <input asp-for="descripcion" class="form-control" />
+        <span asp-validation-for="descripcion" class="text-danger"></span>
+    </div>
+   
+
+    <button type="submit" class="btn btn-primary">Crear Equipo</button>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
